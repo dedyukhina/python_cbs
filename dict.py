@@ -19,6 +19,6 @@ friends = [
 # for i in friends:
 #     i["name"] = input("insert name: ")
 #     i["age"] = input("insert age: ")
-#
+#tes
 #
 
